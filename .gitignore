@@ -130,3 +130,4 @@ dmypy.json
 .pyc
 dst-3.0_16_1_hh_database.csv
 PY_17_Как_получать_данные_из_веб-источников_и_API/data/Как_получать_данные_из_веб-источников_и_API.ipynb
+wine.csv
