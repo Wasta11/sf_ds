@@ -1,0 +1,10 @@
+INFO: 2023-04-20 15:41:52,390: Data
+INFO: 2023-04-20 15:42:40,276: This is an informational message
+WARNING: 2023-04-20 15:42:40,277: This message is a warning
+ERROR: 2023-04-20 15:42:40,278: This is an error message
+CRITICAL: 2023-04-20 15:42:40,279: This is a critical message
+INFO: 2023-04-20 15:42:40,940: Data
+INFO: 2023-04-20 15:42:40,942: Data shape (110527, 14)
+INFO: 2023-04-20 15:42:40,953: Percentage of women: 0.653882342398853
+INFO: 2023-04-20 15:42:40,965: Percentage of men: 0.346117657601147
+ERROR: 2023-04-20 15:44:06,035: Data shape is incorrect!
